@@ -1,2 +1,2 @@
 # JavaGames
-A repository containing different games implemented in java
+A repository containing different games implemented in java.
